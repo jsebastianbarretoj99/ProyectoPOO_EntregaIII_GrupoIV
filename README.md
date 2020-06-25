@@ -1,4 +1,3 @@
-
 # Proyecto Kiosco: Programación Orientada a Objetos: Entrega 3
   Aplicación para el control de ventas de un kiosco de libros en Java.
   
