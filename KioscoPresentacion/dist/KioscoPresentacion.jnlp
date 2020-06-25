@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="KioscoPresentacion.jnlp">
+  <information>
+    <title>KioscoPresentacion</title>
+    <vendor>vale-</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="KioscoPresentacion.jar" size="9521" download="eager" />
+    <jar href="lib\KioscoAccesoDatos.jar" size="4957" download="eager" />
+    <jar href="lib\KioscoEntidades.jar" size="24229" download="eager" />
+    <jar href="lib\KioscoNegocio.jar" size="14395" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="KioscoPresentacion" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="kioscopresentacion.KioscoPresentacion"  name="KioscoPresentacion" />
+  <update check="always"/>
+</jnlp>
