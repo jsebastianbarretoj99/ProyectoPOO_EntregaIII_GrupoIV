@@ -1,6 +1,6 @@
 # Kiosc project: Object oriented programming: Delivery 3
   Sales control application for a book kiosk in Java.
-  ![3](/App_Kiosco.png)
+  ![](/App_Kiosco.png =30x30)
 
 ## Build with 🛠️
 * [Java] - The programming language used
