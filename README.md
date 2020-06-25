@@ -1,6 +1,7 @@
 # Proyecto Kiosco: Programación Orientada a Objetos: Entrega 3
   Aplicación para el control de ventas de un kiosco de libros en Java.
-  
+  ![](/App_Kiosco.png)
+
 ## Construido con 🛠️
 * [Java] - El lenguaje de programación usado
 * [JavaFx] - Componente usado para el uso de la interfaz grafica
